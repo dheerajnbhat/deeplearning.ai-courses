@@ -3,7 +3,7 @@ This folder contains my assignment work for the course <i>Natural Language Proce
 
 The specialization course consists of four courses:
 
-  1. Natural Language Processing with Classification and Vector Spaces 
+  1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/dheerajnbhat/deeplearning.ai-courses/tree/master/Natural%20Language%20Processing/Course%201%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces) 
   2. Natural Language Processing with Probabilistic Models
   3. Natural Language Processing with Sequence Models
   4. Natural Language Processing with Attention Models
